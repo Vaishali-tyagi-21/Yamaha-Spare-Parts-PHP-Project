@@ -1,0 +1,6 @@
+SRS ->  All functionalites of your project 
+
+DIAGRAMS:- 
+MODEL DIAGRAMS
+SEQUENCE DIAGRAM
+ER DIAGRAM 
